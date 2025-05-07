@@ -5,7 +5,7 @@ import tripCover from '../../assets/images/trip-cover.jpg';
 const ItineraryList = () => {
   const { setSelectedTrip } = useApp();
 
-  // Sample data - replace with your actual data
+  // Sample data can be replaced with your actual data
   const trips = [
     {
       id: 1,
